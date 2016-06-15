@@ -13,6 +13,9 @@ The Arduino mega with the 4-20 ma shield
 
 ![image 2](https://cloud.githubusercontent.com/assets/1216181/16090544/39042fe8-3330-11e6-8ab6-184cec77e017.jpg)
 
+Serial debug
+
+![image](https://cloud.githubusercontent.com/assets/1216181/16090582/5fef85b2-3330-11e6-802b-3be8c2b2da17.jpeg)
 
 Architecture
 
