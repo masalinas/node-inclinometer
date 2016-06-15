@@ -7,6 +7,8 @@ The Node-RED UI
 
 The Arduino mega with the 4-20 ma shield
 
+![image](https://cloud.githubusercontent.com/assets/1216181/16090492/e47d9acc-332f-11e6-980a-dd4e41e892d2.jpg)
+
 Architecture
 
 # Hardware:
