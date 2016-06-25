@@ -1,9 +1,5 @@
 # node-inclinometer
-IoC proof of concept to demostrate any measure captured from a inclinometer attached to a arduino mega2560 and transport this information throw mqtt protocol to a central server thats centralize this information using a message broker like mosca and node-red to parse and visualize it .
-
-The Node-RED flow Designer
-
-The Node-RED UI
+IoC proof of concept to demostrate any measure captured from a inclinometer attached to a arduino mega2560.
 
 The Arduino mega with the 4-20 ma shield
 
