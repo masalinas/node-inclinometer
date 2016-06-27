@@ -16,7 +16,7 @@ Arduino Serial debug
 
 ![image](https://cloud.githubusercontent.com/assets/1216181/16090582/5fef85b2-3330-11e6-802b-3be8c2b2da17.jpeg)
 
-Sensor Type
+Sensor Type 3
 
 ![sensor_type](https://cloud.githubusercontent.com/assets/1216181/16357399/c9ca1ae8-3af5-11e6-9b4d-c0da1dafd4ca.png)
 
