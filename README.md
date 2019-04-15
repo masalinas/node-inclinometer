@@ -26,5 +26,7 @@ Sensor 4-20 ma Type 3
 - [4-20 mA (Current Loop) Sensor Board for  Arduino](https://www.cooking-hacks.com/4-20-ma-current-loop-sensor-board-shield-for-arduino-raspberri-pi-intel-galileo): The 4-20 mA Current Loop Board allows the user to send sensor data via current loop over long distances
 - [PA204A omron](https://www.mroelectric.com/pdfs/c200hw-pa204.pdf): power supply unit power to CPU rack and the expansion I/O Racks
 
+- [SST20 Vigor Digital](https://www.vigordigital.com/page6.html?product_id=227): inclinometer biaxial
+
 # Licenses
 The source code is released under Apache 2.0.
